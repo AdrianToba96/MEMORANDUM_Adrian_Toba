@@ -13,7 +13,7 @@ public class UserService {
     public String calculateIMC (User user) {
 
         double weight =user.getWeight();
-        double height =user.getWeight();
+        double height =user.getHeight();
 
         double imc = weight / (height * height);
 
