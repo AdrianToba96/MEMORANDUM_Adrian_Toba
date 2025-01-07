@@ -1,0 +1,4 @@
+server:
+  port: 8080  # Puerto donde se ejecutará la aplicación
+  servlet:
+    context-path: /api  # Contexto base para tu aplicación
