@@ -12,7 +12,7 @@
 	<packaging>pom</packaging>
 	<groupId>com.company</groupId>
 	<artifactId>toba</artifactId>
-	<version>1.0.0</version>
+	<version>0.0.2</version>
 	<name>toba</name>
 	<description>Demo project for Spring Boot</description>
 	<modules>
